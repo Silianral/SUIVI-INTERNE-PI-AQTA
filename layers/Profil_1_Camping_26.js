@@ -1,1 +1,1 @@
-var json_Profil_1_Camping_26 = {"type":"FeatureCollection","name":"Profil_1_Camping_26","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
+var json_Profil_1_Camping_26 = {"type":"FeatureCollection","name":"Profil_1_Camping_26","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.129816900907284,47.554742696889264],[-3.12906947390178,47.554674739233988]]]}}]}

@@ -1,1 +1,1 @@
-var json_Profil_3_CarnacEST_17 = {"type":"FeatureCollection","name":"Profil_3_CarnacEST_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
+var json_Profil_3_CarnacEST_17 = {"type":"FeatureCollection","name":"Profil_3_CarnacEST_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.059199608093565,47.571620468308105],[-3.058935382062126,47.572034041168095]]]}}]}

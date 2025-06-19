@@ -1,1 +1,1 @@
-var json_Profil5_Locmariaquer_5 = {"type":"FeatureCollection","name":"Profil5_Locmariaquer_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
+var json_Profil5_Locmariaquer_5 = {"type":"FeatureCollection","name":"Profil5_Locmariaquer_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"6"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.96885104114422,47.557605935263219],[-2.969411731840173,47.557154911342508]]]}}]}

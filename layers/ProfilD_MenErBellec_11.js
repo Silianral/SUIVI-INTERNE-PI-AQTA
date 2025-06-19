@@ -1,1 +1,1 @@
-var json_ProfilD_MenErBellec_11 = {"type":"FeatureCollection","name":"ProfilD_MenErBellec_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
+var json_ProfilD_MenErBellec_11 = {"type":"FeatureCollection","name":"ProfilD_MenErBellec_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"3"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.996866211723873,47.571161449895882],[-2.996207864201402,47.570540297148696]]]}}]}

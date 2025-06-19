@@ -1,1 +1,1 @@
-var json_Profil_1_Carnac_EST_19 = {"type":"FeatureCollection","name":"Profil_1_Carnac_EST_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
+var json_Profil_1_Carnac_EST_19 = {"type":"FeatureCollection","name":"Profil_1_Carnac_EST_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.057636376007622,47.571310910354477],[-3.057852476542563,47.571614445877564]]]}}]}

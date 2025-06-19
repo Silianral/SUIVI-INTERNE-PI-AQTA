@@ -1,1 +1,1 @@
-var json_Profil_5_28 = {"type":"FeatureCollection","name":"Profil_5_28","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
+var json_Profil_5_28 = {"type":"FeatureCollection","name":"Profil_5_28","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.131192178452314,47.548981876927975],[-3.13068541006577,47.548725045330713]]]}}]}
