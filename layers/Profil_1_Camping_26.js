@@ -1,0 +1,1 @@
+var json_Profil_1_Camping_26 = {"type":"FeatureCollection","name":"Profil_1_Camping_26","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
